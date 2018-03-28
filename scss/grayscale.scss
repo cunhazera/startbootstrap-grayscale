@@ -50,7 +50,7 @@ a {
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
 
-  color: $primary;
+  color: #FD7E1F;
   &:focus,
   &:hover {
     text-decoration: none;
@@ -137,12 +137,12 @@ a {
   text-align: center;
 
   color: white;
-  background: url('../img/villa-black.jpg') no-repeat center scroll;
+  background: url('../img/villa.jpg') no-repeat center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: contain;
+  background-size: cover;
   .intro-body {
     display: table-cell;
 
@@ -199,7 +199,7 @@ a {
 
 .download-section {
   color: white;
-  background: url('../img/downloads-bg.jpg') no-repeat center center scroll;
+  background: url('../img/congregacao.jpg') no-repeat center center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
