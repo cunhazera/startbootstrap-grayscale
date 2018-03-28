@@ -131,18 +131,18 @@ a {
   display: table;
 
   width: 100%;
-  height: auto;
+  height: 100%;
   padding: 200px 0;
 
   text-align: center;
 
   color: white;
-  background: url('../img/villa.jpg') no-repeat center scroll;
+  background: url('../img/villa-black.jpg') no-repeat center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
+  background-size: contain;
   .intro-body {
     display: table-cell;
 
